@@ -4,5 +4,7 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "editor.tabSize": 2
+    "editor.tabSize": 2,
+    "files.autoGuessEncoding": true,
+    "explorer.autoReveal": false
 }
