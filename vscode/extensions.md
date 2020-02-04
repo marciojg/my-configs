@@ -1,0 +1,4 @@
+- ms-azuretools.vscode-docker
+- eamodio.gitlens
+- rebornix.ruby
+  - wingrunr21.vscode-ruby
