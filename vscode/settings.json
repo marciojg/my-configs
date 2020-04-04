@@ -6,5 +6,8 @@
     "files.trimTrailingWhitespace": true,
     "editor.tabSize": 2,
     "files.autoGuessEncoding": true,
-    "explorer.autoReveal": false
+    "explorer.autoReveal": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "files.encoding": "utf8",
+    "files.eol": "\n"
 }
