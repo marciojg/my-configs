@@ -3,7 +3,6 @@ vi ~/.gitconfig
 [user]
   email = <my email here>
   name = Steven Murawski
-  signingkey = <my gpg signing key here>
 [core]
   editor = code --wait
   eol = lf
