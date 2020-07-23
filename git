@@ -1,9 +1,0 @@
-vi ~/.gitconfig
-
-[user]
-  email = <my email here>
-  name = Steven Murawski
-[core]
-  editor = code --wait
-  eol = lf
-  autocrlf = true
